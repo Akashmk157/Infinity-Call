@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1062407839373",
+    "project_id": "infinity-4e4b3",
+    "storage_bucket": "infinity-4e4b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062407839373:android:c34f2b932c5b7c532b8cc4",
+        "android_client_info": {
+          "package_name": "com.example.infinitycall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062407839373-b1q90k4njh2jhv0h71emtqul9nd12l4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9hzL0aWtvzEKeAGeOqZQZuNbGjK2Hrr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062407839373-b1q90k4njh2jhv0h71emtqul9nd12l4f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
