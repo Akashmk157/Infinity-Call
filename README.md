@@ -5,13 +5,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashmk157&label=Profile%20views&color=0e75b6&style=flat" alt="akashmk157" /> </p>
 
-- 🔭 I’m currently working on **Crypto Tracker App**
+- 🔭 I’m currently working on **Infinity call app**
 
-<h3 align="left">Crypto Tracker App</h3>
+<h3 align="left">Infinity call app</h3>
 
-- Crypto Tracker is an Online Cryptocurrency Tracking Android App.
-- It aims to displaying the current rates of Crypto Currencies present in the crypto market along with providing Live Tracking functionality.
-- Used CoinMarketCap API to get the desired information for working app.
+- Infinity Call is a Video Conference Android app.
+- It is a fully encrypted, 100% Secured Video conferencing app that you can use all day for free. Used Jitsi Meet SDK ,it enables built-in 
+  features such as
+- chat, screen sharing, and recording. 
 
 <h3 align="left">Screen shots</h3>
 
