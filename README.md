@@ -16,7 +16,10 @@
 
 <h3 align="left">Screen shots</h3>
 
-
+<img src="Infinity-app-images/Infinity-create.png" width=300 height=550>
+<img src="Infinity-app-images/Infinity-home.png" width=300 height=550>
+<img src="Infinity-app-images/Infinity-login.png" width=300 height=550>
+<img src="Infinity-app-images/Infinity-meet.png" width=300 height=550>
 
 <p align="left">
 </p>
