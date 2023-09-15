@@ -20,6 +20,20 @@
 <img src="Infinity-app-images/Infinity-home.png" width=300 height=550>
 <img src="Infinity-app-images/Infinity-login.png" width=300 height=550>
 <img src="Infinity-app-images/Infinity-meet.png" width=300 height=550>
+<table>
+    <tr>
+        <td><img src="Infinity-app-images/Infinity-create.png" width=300 height=550></td>
+        <td><img src="Infinity-app-images/Infinity-login.png" width=300 height=550></td>
+        <td><img src="Infinity-app-images/Infinity-home.png" width=300 height=550></td>
+        <td><img src="Infinity-app-images/Infinity-meet.png" width=300 height=550></td>
+    </tr>
+    <tr>
+        <td>Create Acount Screen</td>
+        <td>Login Screen</td>
+        <td>Home Screen</td>
+        <td>Meeting Screen</td>
+    </tr>
+</table>
 
 <p align="left">
 </p>
